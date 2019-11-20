@@ -14,7 +14,7 @@ public class TorresDeHanoi {
      */
     public static void main(String[] args) {
       TorresDeHanoi ejem = new TorresDeHanoi();
-      ejem.torresHanoi(64, 1, 2, 3);
+      ejem.torresHanoi(4, 1, 2, 3);
         System.out.println("Juego terminado");
     }
     
